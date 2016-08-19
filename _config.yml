@@ -1,0 +1,28 @@
+name: theprandmarketingagency
+favicon: null
+layout_spectrum: 0.8682084192987531
+typography_spectrum: 0.676589074311778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.88082221057266
+  lightness: 0.2553183336276561
+  saturation: 0.48268239898607135
+  rhythmicContrast: 0.8136279208119959
+purpose: []
